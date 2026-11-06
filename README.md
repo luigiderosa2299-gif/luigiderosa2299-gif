@@ -23,6 +23,16 @@
 | [Honeypot Incident Response Lab](https://github.com/luigiderosa2299-gif/honeypot-incident-response-lab) | Honeypot Azure (VM + MySQL con dati fittizi) attaccato end-to-end da me stesso, rilevato in tempo reale da 3 regole di detection custom su Microsoft Sentinel, ciclo completo di incident response (detection → analisi → contenimento → eradicazione) | Azure, Microsoft Sentinel, Defender for Cloud, KQL, MySQL |
 | [Threat Hunt TOR Lab](https://github.com/luigiderosa2299-gif/threat-hunt-tor-lab) | Threat hunting su uso non autorizzato di TOR Browser, basato sullo scenario ufficiale di The Cyber Range: indagine manuale su schema EDR Microsoft Defender for Endpoint, timeline forense e report finale | Microsoft Defender for Endpoint, KQL Advanced Hunting, Azure |
 
+### Cyber Threat Intelligence & Compliance
+| Progetto | Descrizione | Stack / Focus |
+|---|---|---|
+| [CTI Report — Campagna StreamRat/XWorm](https://github.com/luigiderosa2299-gif/cti-ssn-streamrat-xworm) | Analisi CTI completa su una campagna malevola reale (falso sito SSN): valutazione fonti con Admiralty Code, raccolta/arricchimento IOC, infrastructure pivoting OSINT (scoperta di riuso multi-paese), mappatura MITRE ATT&CK Enterprise+Mobile, collegamento alle misure NIS2 (D.Lgs. 138/2024) | OSINT, VirusTotal, ThreatFox, Censys/Certificate Transparency, MITRE ATT&CK Navigator, NIS2 |
+
+### Networking & Scripting
+| Progetto | Descrizione | Stack / Focus |
+|---|---|---|
+| [TCP Port Scanner & Banner Grabber](https://github.com/luigiderosa2299-gif/tcp-port-scanner) | Scanner di porte TCP scritto da zero in Python con banner grabbing (SSH + HTTP) e multithreading, comportamento verificato con cattura di pacchetti reale (tcpdump) | Python, socket, argparse, concurrent.futures |
+
 ### Hardening & Vulnerability Management
 | Progetto | Descrizione | Stack / Focus |
 |---|---|---|
