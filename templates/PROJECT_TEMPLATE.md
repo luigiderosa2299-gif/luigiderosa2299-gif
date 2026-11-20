@@ -1,29 +1,29 @@
-# [Nome Progetto]
+# [Project Name]
 
-## 📌 Obiettivo
-Cosa fa questo progetto e perché l'ho realizzato (1-2 frasi, orientate a un recruiter che legge veloce).
+## 📌 Objective
+What this project does and why I built it (1-2 sentences, written for a recruiter who reads quickly).
 
-## 🧩 Contesto / Scenario
-Descrizione dello scenario simulato o del problema affrontato (es. "rete enterprise da 600 utenti", "web app vulnerabile da esaminare", "ambiente AD da compromettere e poi mettere in sicurezza").
+## 🧩 Context / Scenario
+Description of the simulated scenario or the problem addressed (e.g. "enterprise network for 600 users", "vulnerable web app to assess", "Active Directory environment to compromise and then secure").
 
-## 🛠 Tecnologie e Strumenti
-- Elenco puntato di tool, protocolli, piattaforme usate (es. Cisco Packet Tracer, Kali Linux, Nmap, Wireshark, AWS, Active Directory, Splunk...)
+## 🛠 Technologies and Tools
+- Bullet list of tools, protocols and platforms used (e.g. Cisco Packet Tracer, Kali Linux, Nmap, Wireshark, AWS, Active Directory, Splunk...)
 
-## ⚙️ Cosa ho fatto
-Passi principali del lavoro, in ordine logico. Va bene un elenco puntato o numerato — non serve un tutorial completo, ma i punti chiave delle decisioni tecniche prese e perché.
+## ⚙️ What I Did
+Main steps of the work, in logical order. A bulleted or numbered list is fine — a full tutorial is not needed, but the key technical decisions and why they were made.
 
 1. ...
 2. ...
 3. ...
 
-## 📊 Risultati
-Cosa è stato ottenuto/dimostrato. Se possibile con numeri o evidenze concrete (es. "ridotta la superficie d'attacco da X a Y porte esposte", "identificate N vulnerabilità critiche", "tempo di detection ridotto da X a Y minuti").
+## 📊 Results
+What was achieved or demonstrated. Where possible, with numbers or concrete evidence (e.g. "reduced the attack surface from X to Y exposed ports", "identified N critical vulnerabilities", "reduced detection time from X to Y minutes").
 
-## 🖼 Screenshot / Diagrammi
-Allega qui screenshot, diagrammi di rete, output di tool (senza dati sensibili/reali).
+## 🖼 Screenshots / Diagrams
+Attach screenshots, network diagrams and tool output here (without sensitive or real data).
 
-## 💡 Cosa ho imparato
-2-3 frasi su competenze acquisite o problemi risolti — utile sia per il CV sia per i colloqui.
+## 💡 What I Learned
+2-3 sentences on skills gained or problems solved — useful for both the CV and interviews.
 
-## 🔗 Collegamenti
-- Eventuale writeup più esteso, repo correlati, riferimenti (CompTIA objectives, MITRE ATT&CK, CVE...)
+## 🔗 Links
+- Optional longer write-up, related repos, references (CompTIA objectives, MITRE ATT&CK, CVE...)
